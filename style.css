@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f8ff;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #3367d6;
+}
+
+#quote-box {
+  margin: 20px auto;
+  padding: 20px;
+  width: 50%;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background: #3367d6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #254a99;
+}
